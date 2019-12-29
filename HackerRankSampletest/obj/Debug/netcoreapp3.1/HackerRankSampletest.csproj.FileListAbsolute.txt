@@ -1,0 +1,11 @@
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\obj\Debug\netcoreapp3.1\HackerRankSampletest.csprojAssemblyReference.cache
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\obj\Debug\netcoreapp3.1\HackerRankSampletest.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\obj\Debug\netcoreapp3.1\HackerRankSampletest.AssemblyInfo.cs
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\bin\Debug\netcoreapp3.1\HackerRankSampletest.exe
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\bin\Debug\netcoreapp3.1\HackerRankSampletest.deps.json
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\bin\Debug\netcoreapp3.1\HackerRankSampletest.runtimeconfig.json
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\bin\Debug\netcoreapp3.1\HackerRankSampletest.runtimeconfig.dev.json
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\bin\Debug\netcoreapp3.1\HackerRankSampletest.dll
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\bin\Debug\netcoreapp3.1\HackerRankSampletest.pdb
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\obj\Debug\netcoreapp3.1\HackerRankSampletest.dll
+C:\Users\Dev Ops\source\repos\HackerRankSampletest\HackerRankSampletest\obj\Debug\netcoreapp3.1\HackerRankSampletest.pdb
